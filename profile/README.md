@@ -20,7 +20,7 @@ Convert content into clean, useful Markdown with **ToMarkdown**.
 
 **iCare** is one of the products in the AetoNet ecosystem. Visit the official website for the latest product information, availability, and documentation.
 
-- **Learn more:** [iCare](https://icare.com)
+- **Learn more:** [iCare](https://github.com/Aetonet/icare)
 
 ## What we build
 
